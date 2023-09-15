@@ -1,1 +1,3 @@
-Uttamjeet Singh - Using Git
+Uttamjeet Singh
+<br>
+Using Git
